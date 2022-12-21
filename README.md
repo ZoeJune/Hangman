@@ -1,6 +1,6 @@
 # Hangman
 
-Copy and paste the code in main.py into the IDE of your choice. 
+Copy and paste the code in main.py into the IDE of your choice. No guarantee it'll work for a language other than Python.
 
 Project task develope during bootcamp.
 
