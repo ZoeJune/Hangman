@@ -1,8 +1,6 @@
 # Hangman
 
-Copy and paste the code in main.py into the IDE of your choice. No guarantee it'll work for a language other than Python.
+The script is written in Python. Copy and paste the code in the main.py into the IDE of your choice. 
 
-Project task developed during bootcamp.
-
-Code solution developed by the bootcamp instructor can be found at the end of the script, and is marked accordingly.
-The rest was written by the owner of this account. 
+The project was a task developed during a coding bootcamp. The bootcamp instructor provided the solution that can be found at the end of the script.
+The code itself was written by the owner of this GitHub account.
